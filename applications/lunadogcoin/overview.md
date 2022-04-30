@@ -1,6 +1,6 @@
 ---
 name: 'Luna Dog Coin'
-description: "Bring a little fun and levity to the often overly serious crypto world."
+description: "Luna Dog Club (LDC) is a collection of 1/1 NFTs about our favorite good boys on the ERGO ecosystem. "
 website: 'https://lunadogcoin.com/'
 logo_image: 'lunadogcoin-logo.png'
 preview_image: 'lunadogcoin.png'
